@@ -1,3 +1,9 @@
+"""Ensures the base TextVectorDb class works as expected.
+
+This is essentially the tutorial from Milvus's website:
+https://milvus.io/docs/integrate_with_sentencetransformers.md
+"""
+
 import csv
 import os
 import shutil
